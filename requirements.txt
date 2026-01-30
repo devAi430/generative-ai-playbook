@@ -1,0 +1,16 @@
+streamlit
+openai
+tiktoken
+gradio
+pandas
+numpy
+langchain
+faiss-cpu
+transformers
+torch
+langchain_openai
+langchain_community
+fitz
+PyMuPDF
+duckduckgo_search
+langchain-core
